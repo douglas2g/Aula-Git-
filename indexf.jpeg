@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title></title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<header>
+		<h1>Time de Coraçõa</h1>
+	</header>
+	<main>
+		<section>
+			<h2>Clube de Regatas do Flamengo</h2>
+			<img src="i.png" alt="escuto do fla" />
+			<legend>Escudo Comemorativo</legend>
+		</section>
+		<section>
+			<h2>Flamengo</h2>
+			<h3>Raça,Amor e Paixão</h3>
+			<p>Flamengo não é apenas um time escolhido para se torcer torcer, e sim uma tradição de família onde praticamente todos torcem para o CRF.Flamengo é vida,uma fílosofia e Admiração acima de tudo.</p>
+			<img src="">
+			<video>
+				src="https://youtu.be/UCHM6Rg-4M8"
+			</video>
+		</section>
+	</main>
+</body>
+</html>
